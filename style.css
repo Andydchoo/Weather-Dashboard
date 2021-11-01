@@ -40,6 +40,7 @@ main {
     border-bottom: solid grey;
     border-width: 2px;
     justify-content: space-between;
+    padding: 5px, 5px, 5px, 5px;
     margin: 1%;
     
 }
